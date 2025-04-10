@@ -1,7 +1,5 @@
 # 💫 Hi 👋, I'm Vineet Kumar
-**A passionate Data Scientist || Data Analyst || AI/ML & Deep Learning Enthusiast from India & Foreign
-
-**
+**A passionate Data Scientist || Data Analyst || AI/ML & Deep Learning Enthusiast from India & Foreign**
 
 Email Me 👉 ✉️ **woekdin10@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
