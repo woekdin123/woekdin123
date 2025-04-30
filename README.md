@@ -1,4 +1,4 @@
-![logo](https://github.com/woekdin123/woekdin123/tree/main/.github/workflows)
+![logo](Github Banner.pngGithub Banner.png)
 # 💫 Hi 👋, I'm Vineet Kumar
 **A passionate Data Scientist || Data Analyst || AI/ML & Deep Learning Enthusiast from India & Foreign**
 
