@@ -1,4 +1,4 @@
-![logo](Github Banner.pngGithub Banner.png)
+![logo](Github Banner.png)
 # 💫 Hi 👋, I'm Vineet Kumar
 **A passionate Data Scientist || Data Analyst || AI/ML & Deep Learning Enthusiast from India & Foreign**
 
